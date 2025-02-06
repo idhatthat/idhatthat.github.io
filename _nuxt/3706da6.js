@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{526:function(t,n,e){"use strict";e.r(n);var c={layout:"default",fetch:function(t){(0,t.redirect)("/editor")}},l=e(20),component=Object(l.a)(c,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);n.default=component.exports}}]);
